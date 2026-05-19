@@ -11,6 +11,10 @@ Lightweight macOS security auditing and hardening assessment script for macOS.
 - Privacy configuration checks
 - System service inspection
 
+## Preview
+
+![Preview](preview.png)
+
 ## Usage
 
 ```bash
