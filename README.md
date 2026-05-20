@@ -1,6 +1,6 @@
-# macOS Hardening
+# macOS auditing script
 
-Lightweight macOS security auditing and hardening assessment script for macOS.
+Lightweight macOS security auditing script for macOS.
 
 ## Features
 
