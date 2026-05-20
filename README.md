@@ -19,7 +19,7 @@ Lightweight macOS security auditing script for macOS.
 
 ```bash
 chmod +x hardeningMAC.sh
-./hardeningMAC.sh
+./auditMAC.sh
 ```
 
 ## Requirements
